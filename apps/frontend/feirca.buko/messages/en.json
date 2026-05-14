@@ -1,0 +1,20 @@
+{
+    "menu":{
+        "home":"Home",
+        "About": "About",
+        "about": "About",
+        "clubs": "Clubs",
+        "publish": "Publish",
+        "requests": "Requests",
+        "saved": "Saved `",
+        "notifications": "Notifications",
+        "settings": "Settings",
+        "profile": "Profile",
+        "logout": "Logout"
+    },
+    "messages": {
+        "welcomeBack": "Welcome Back",
+        "search":"Search here...."
+  }
+    
+}

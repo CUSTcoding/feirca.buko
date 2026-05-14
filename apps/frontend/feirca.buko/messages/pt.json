@@ -1,0 +1,18 @@
+{
+  "menu": {
+    "home": "Início",
+    "about": "Sobre",
+    "clubs": "Clubes",
+    "publish": "Publicar",
+    "requests": "Pedidos",
+    "saved": "Guardados",
+    "notifications": "Notificações",
+    "settings": "Configurações",
+    "profile": "Perfil",
+    "logout": "Terminar sessão"
+  },
+  "messages": {
+    "welcomeBack": "Bem-vindo de volta",
+    "search":"Pesquisar aqui...."
+  }
+}
